@@ -4,11 +4,6 @@
 - 🥅 2022 Goals: Learn more about web3
 - 📫 How to reach me debjitchakraborty117@gmail.com
 
-### Connect with me:
-
-[![website](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>)](www.linkedin.com/in/debjit-chakraborty-640b9b1b5)
-[![website](./img/instagram-light.svg)](https://www.instagram.com/deb_3121_/)
-
 ### Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
