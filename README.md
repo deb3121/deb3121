@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Debjit Chakraborty
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently working on ML Projects
-- 🥅 2024 Goals: Gen AI 
+- 🥅 2024 Goals: Generative AI (text-to-image models, language models), Reinforcement learning, Federated learning, and Graph Neural Networks.
 - 📫 How to reach me debjitchakraborty117@gmail.com
 
 ### Languages and Tools:
@@ -22,6 +22,8 @@
 [<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:10px;"  />]
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />]
+</br>
+</br>
                              
           
 
