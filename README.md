@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debjit Chakraborty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deb3121" alt="deb3121" /></a> </p>
-
 - 🔭 I’m currently working on [PharmaCareBot](https://github.com/deb3121/PharmaCareBot.git)
 
 - 🌱 I’m currently learning **Generative AI, Graph Neural Networks, Advanced Machine Learning**
