@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debjit-chakraborty-640b9b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debjit-chakraborty-640b9b1b5/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/debjit_3121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debjit_3121/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debjit-chakraborty-640b9b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjit-chakraborty-640b9b1b5/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/debjit_3121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debjit_3121/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
