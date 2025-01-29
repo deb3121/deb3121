@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debjit Chakraborty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on [PharmaCareBot](https://github.com/deb3121/PharmaCareBot.git)
+- 🔭 I’m currently working on Advanced Machine Learning
 
 - 🌱 I’m currently learning **Generative AI, Graph Neural Networks, Advanced Machine Learning**
 
