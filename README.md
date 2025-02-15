@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Debjit Chakraborty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on Advanced Machine Learning
+- 🔭 I’m currently working on Advanced Machine Learning and Virtual Reality
 
-- 🌱 I’m currently learning **Generative AI, Graph Neural Networks, Advanced Machine Learning**
+- 🌱 I’m currently learning **Generative AI, Virtual Reality, Advanced Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deb3121](https://github.com/deb3121)
 
